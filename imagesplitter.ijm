@@ -1,4 +1,5 @@
 // functions usable in imagej
+// dependencies: StackReg (http://bigwww.epfl.ch/thevenaz/stackreg/) (which requires turboreg (http://bigwww.epfl.ch/thevenaz/turboreg/)
 
 function image_splitter(){
 	// splits the images recorded with the quad splitter (2 at question) or other splitters.
